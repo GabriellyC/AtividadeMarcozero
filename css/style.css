@@ -4,7 +4,10 @@ body {
     padding: 10px;
 }
 h1 {
+    display: flex;
     background-color: grey;
+    justify-content: center;
+    
 }
 
 a {
